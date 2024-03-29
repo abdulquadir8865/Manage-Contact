@@ -194,7 +194,7 @@ class addContactViewController: UIViewController,UINavigationControllerDelegate,
         self.dismiss(animated: true,completion: nil)
     }
     
-    //save all data type1:
+    //save all data type1:  use one method call all typw
 //    func saveAlldata(dict:[String:Any]){
 //
 //        var dictionary: [String: Any] = ["name": txtName.text!]
